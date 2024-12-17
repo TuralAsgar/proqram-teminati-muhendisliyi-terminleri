@@ -4,8 +4,11 @@ Proqram təminatı mühəndisliyi terminlərinin Azərbaycan dilindəki qarşıl
 **A**
 
 Abstraction - Abstraksiya
+
 Access Control - Giriş Nəzarəti
+
 Access Modifier - Giriş Modifikatoru
+
 Active Directory - Aktiv Kataloq
 Adapter Pattern - Adapter Nümunəsi
 Agile Methodology - Çevik Metodologiya
