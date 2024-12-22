@@ -1,7 +1,7 @@
 # Azərbaycan dilində proqram təminatı mühəndisliyi terminləri
 Proqram təminatı mühəndisliyi terminlərinin Azərbaycan dilindəki qarşılıqlarını tapırıq.
 
-*A*
+# A
 
 Abstraction - Abstraksiya
 
