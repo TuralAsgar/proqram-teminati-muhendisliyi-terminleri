@@ -206,7 +206,7 @@ Custom Software - Xüsusi Proqram
 
 Cyclomatic Complexity - Siklomatika Çətinliyi
 
-**D**
+# D
 
 Data Access Layer (DAL) - Məlumat Giriş Qatı
 
@@ -300,7 +300,7 @@ Dynamic Link Library (DLL) - Dinamik Bağlantı Kitabxanası
 
 Dynamic Programming - Dinamik Proqramlaşdırma
 
-**E**
+# E
 
 Eager Loading - İstidadla Yükləmə
 
@@ -366,46 +366,50 @@ Ephemeral Storage - Müvəqqəti Yaddaş
 
 Entity Framework - Varlıq Çərçivəsi
 
-**F**
+Here is the updated text with the "# " prefix added to all lines starting with a single character:
 
-**G**
+[//]: # (Yet another comment)
 
-**H**
+# F
 
-**I**
+# G
 
-**J**
+# H
 
-**K**
+# I
 
-**L**
+# J
 
-**M**
+# K
 
-**N**
+# L
 
-**O**
+# M
 
-**P**
+# N
 
-**Q**
+# O
 
-**R**
+# P
 
-**S**
+# Q
 
-**T**
+# R
 
-Task - tapşırıq
+# S
 
-**U**
+# T
 
-**V**
+**Task** - tapşırıq
 
-**W**
+# U
 
-**X**
+# V
 
-**Y**
+# W
 
-**Z**
+# X
+
+# Y
+
+# Z
