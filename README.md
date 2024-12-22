@@ -4,213 +4,258 @@ Proqram təminatı mühəndisliyi terminlərinin Azərbaycan dilindəki qarşıl
 [//]: # (-----------------------------------------------------------------------------------------------------------------------------------)
 # A
 
-Abstraction - Abstraksiya
+Abstraction - Abstraksiya: Mürəkkəb sistemlərin sadələşdirilməsi və əsas xüsusiyyətlərə fokuslanma prosesi.
 
-Access Control - Giriş Nəzarəti
+Access Control - Giriş Nəzarəti: Sistemə və məlumatlara kimin giriş edə biləcəyini müəyyən edən siyasətlər və prosedurlar.
 
-Access Modifier - Giriş Modifikatoru
+Access Modifier - Giriş Modifikatoru: Sinif və obyektlərə giriş hüquqlarını tənzimləyən proqramlaşdırma dilindəki xüsusiyyət.
 
-Active Directory - Aktiv Kataloq
+Active Directory - Aktiv Kataloq: Microsoft sistemlərində istifadəçi və resursları idarə etmək üçün mərkəzi məlumat bazası.
 
-Adapter Pattern - Adapter Nümunəsi
+Adapter Pattern - Adapter Nümunəsi: Müxtəlif interfeysləri uyğunlaşdıran və onları bir-birinə qoşan dizayn nümunəsi.
 
-Agile Methodology - Çevik Metodologiya
+Agile Methodology - Çevik Metodologiya: Tez-tez dəyişən tələblərə cavab verən, iterativ və sıx əməkdaşlıq tələb edən proqram inkişaf metodologiyası.
 
-Algorithm - Alqoritm
+Agile Software Development - Çevik Proqram Təminatı İnkişafı: Proqram təminatının çevik və iterativ inkişafı, istifadəçi tələblərinə uyğunlaşma.
 
-Align - ahəngdə olmaq
+Algorithm - Alqoritm: Müəyyən bir problemi həll etmək üçün ardıcıl addımların və qaydaların dəstəsi.
 
-Allocation - Ayrılma (Təyin etmə)
+Align - Ahəngdə olmaq: Müxtəlif hissələri və ya komponentləri uyğunlaşdırmaq və birgə işləməsini təmin etmək.
 
-Analysis - Təhlil
+Alpha Testing - Alfa Testi: Tətbiqin ilkin versiyasının daxili istifadəçilər tərəfindən test edilməsi.
 
-Analytics - Analitika
+Allocation - Ayrılma (Təyin etmə): Resursların və ya yaddaşın istifadə üçün ayrılması.
 
-API (Application Programming Interface) - API (Tətbiq Proqramlaşdırma İnterfeysi)
+Analysis - Təhlil: Məlumatların və proseslərin sistematik araşdırılması.
 
-Application - Tətbiq
+Analytics - Analitika: Məlumatların təhlil edilməsi və onlardan mənalı nəticələr çıxarılması.
 
-Application Server - Tətbiq Serveri
+API (Application Programming Interface) - API (Tətbiq Proqramlaşdırma İnterfeysi): Proqramlar arasında məlumat mübadiləsini təmin edən interfeys.
 
-Architecture - Memarlıq
+Application - Tətbiq: İstifadəçilərə müəyyən bir məqsəd üçün xidmət edən proqram.
 
-Artifact - Artefakt
+Application Lifecycle Management (ALM) - Tətbiq Həyat Dövrü İdarəetməsi: Tətbiqin inkişafı, yerləşdirilməsi və saxlanılması proseslərini idarə etmək.
 
-Asynchronous Programming - Asinxron Proqramlaşdırma
+Application Server - Tətbiq Serveri: Tətbiqlərin işləməsini təmin edən və istifadəçilərə xidmət göstərən server.
 
-Assembly Language - Yığın Dili
+Architecture - Memarlıq: Sistemin strukturu və komponentlərinin necə təşkil edildiyini göstərən plan.
 
-Assert - Təmin Etmək
+Artifact - Artefakt: Proqram inkişafı və ya test prosesi zamanı yaradılan hər hansı bir məhsul və ya sənəd.
 
-Assertion - Təminat
+Asynchronous Programming - Asinxron Proqramlaşdırma: Proqramın bir neçə əməliyyatı paralel yerinə yetirərək, birinin tamamlanmasını gözləmədən digərlərini icra etməsi.
 
-Assessment - Qiymətləndirmə
+Assembly Language - Yığın Dili: Maşın dilinə yaxın, aşağı səviyyəli proqramlaşdırma dili.
 
-Assignment - Tapşırıq
+Assert - Təmin Etmək: Proqramın müəyyən şərtlərə uyğun işlədiyini yoxlamaq üçün istifadə olunan əməliyyat.
 
-Association - Assosiasiya
+Assertion - Təminat: Proqramın müəyyən şərtlərlə işlədiyini yoxlayan bir növ test.
 
-Asynchronous Communication - Asinxron Əlaqə
+Assessment - Qiymətləndirmə: Proqramın və ya sistemin performansının və ya keyfiyyətinin ölçülməsi.
 
-Atomic Operation - Atomik Əməliyyat
+Assignment - Tapşırıq: Proqramlaşdırma dilində verilən və ya təyin edilmiş dəyərin dəyişkənə təyin edilməsi.
 
-Authentication - Doğrulama
+Association - Assosiasiya: Siniflər arasında əlaqə və ya münasibət.
 
-Authorization - Səlahiyyətləndirmə
+Asynchronous Communication - Asinxron Əlaqə: Məlumat mübadiləsinin vaxt sinxronizasiyasına ehtiyac duymadan aparılması.
 
-Automation - Avtomatlaşdırma
+Atomic Operation - Atomik Əməliyyat: Bölünməz və tamamilə yerinə yetirilən əməliyyat.
 
-Availability - Əlçatanlıq
+Authentication - Doğrulama: İstifadəçinin kimliyini təsdiqləyən proses.
+
+Authorization - Səlahiyyətləndirmə: İstifadəçiyə müəyyən resurslara və əməliyyatlara girişi təsdiqləmək.
+
+Automation - Avtomatlaşdırma: Təkrarlanan və ya əməliyyatların əl ilə yerinə yetirilməsi əvəzinə avtomatik şəkildə həyata keçirilməsi.
+
+Automated Testing - Avtomatlaşdırılmış Test: Proqram təminatının sınaqdan keçirilməsi üçün avtomatik alətlərin istifadəsi.
+
+Availability - Əlçatanlıq: Sistemin və ya tətbiqin istifadəçilər üçün davamlı işləmə vəziyyəti.
+
+Auto-Scaling - Avtomatik Ölçekləndirmə: Sistem yüklənməsinə əsaslanaraq resursların avtomatik olaraq artırılması və ya azaldılması.
+
+Audit Trail - Auditin İzi: Sistemdə edilən bütün əməliyyatların və dəyişikliklərin qeydiyyatı və izlənməsi.
 
 [//]: # (-----------------------------------------------------------------------------------------------------------------------------------)
 
 # B
 
-Back-End - Arxa Tərəf
+Back-End - Arxa Tərəf: Sistemin istifadəçilərə görünməyən, amma məlumatların işlənməsi və saxlanması üçün cavabdeh olan hissəsi.
 
-Backlog - Arxa Plan
+Backlog - Arxa Plan: İcra olunması gözlənilən işlərin, tapşırıqların və ya xüsusiyyətlərin siyahısı.
 
-Backward Compatibility - Geriyə Uyumluluq
+Backward Compatibility - Geriyə Uyumluluq: Yeni bir versiyanın köhnə versiyalarla uyğun olaraq işləməsi xüsusiyyəti.
 
-Balanced Scorecard - Balanslı Kart
+Balanced Scorecard - Balanslı Kart: İş performansını müxtəlif sahələrdə ölçmək üçün istifadə olunan bir idarəetmə aləti.
 
-Bandwith - Bant Genişliyi
+Bandwith - Bant Genişliyi: Məlumatların bir şəbəkə üzərindən nə qədər sürətlə ötürülə biləcəyini göstərən ölçü.
 
-Base Class - Əsas Sinif
+Base Class - Əsas Sinif: Digər siniflərin miras aldığı və onların strukturlarını müəyyən edən sinif.
 
-Base Method - Əsas Metod
+Base Method - Əsas Metod: Bir sinifdə müəyyən edilmiş və alt siniflər tərəfindən istifadə edilə bilən metod.
 
-Basic Block - Əsas Blok
+Basic Block - Əsas Blok: Proqramın icra edilə bilən ən kiçik hissəsi, ardıcıl şəkildə işlənir.
 
-Behavioral Model - Davranış Modeli
+Behavioral Model - Davranış Modeli: Sistemin və ya komponentin davranışlarını təsvir edən model.
 
-Best practices - ən yaxşı üsullar, ən yaxşı metodlar
+Best practices - ən yaxşı üsullar, ən yaxşı metodlar: Ən yaxşı nəticəni əldə etmək üçün qəbul edilmiş və tətbiq olunan metodologiyalar.
 
-Big-O Notation - Big-O Notasiyası
+Big-O Notation - Big-O Notasiyası: Bir alqoritmin performansını ölçmək üçün istifadə olunan və onun asimptotik davranışını ifadə edən notasiya.
 
-Binary - İkilik
+Binary - İkilik: İki simvol (0 və 1) ilə təmsil olunan məlumatların işlənməsi.
 
-Binary Search - İkilik Axtarışı
+Binary Search - İkilik Axtarışı: Sıralanmış verilənlərdə bir elementi tapmaq üçün istifadə olunan alqoritm.
 
-Binding - Bağlama
+Binding - Bağlama: Funksiyalar və verilənlər arasında əlaqə yaratma prosesi.
 
-Bottleneck - Boğulma
+Bottleneck - Boğulma: Sistemdə resursların tıxanması və ya tələbin gecikməsinə səbəb olan hissə.
 
-Boundary Value Analysis - Hüdud Dəyəri Təhlili
+Boundary Value Analysis - Hüdud Dəyəri Təhlili: Test üsulu, giriş dəyərlərinin sərhədlərində səhvləri tapmaq üçün istifadə olunur.
 
-Breakpoint - Dayanma Nöqtəsi
+Breakpoint - Dayanma Nöqtəsi: Proqramın icrasını müəyyən bir nöqtədə dayandıran səhv ayıklama vasitəsi.
 
-Build - Quruluş
+Build - Quruluş: Proqramın hazırlanması, tərtib edilməsi və sınaqdan keçirilməsi prosesi.
 
-Build Automation - Quruluş Avtomatlaşdırılması
+Build Automation - Quruluş Avtomatlaşdırılması: Quruluş və test proseslərinin avtomatikləşdirilməsi.
 
-Build Script - Quruluş Skripti
+Build Script - Quruluş Skripti: Proqramın tərtib edilməsi və qurulması üçün yazılmış skript.
 
-Bulk Data Transfer - Kütləvi Məlumat Köçürməsi
+Bulk Data Transfer - Kütləvi Məlumat Köçürməsi: Böyük həcmdə məlumatın bir sistemdən digərinə ötürülməsi.
 
-Bus - Yuva
+Bus - Yuva: Kompüterin müxtəlif komponentləri arasında məlumat ötürülməsi üçün istifadə edilən şəbəkə.
 
-Business Analysis - Biznes Təhlili
+Business Analysis - Biznes Təhlili: Biznesin və ya layihənin tələblərini və ehtiyaclarını təhlil etmək və qiymətləndirmək.
 
-Business Logic - Biznes Məntiqi
+Business Logic - Biznes Məntiqi: Tətbiqdə və ya sistemdə biznes qaydalarını və əməliyyatlarını həyata keçirən məntiq.
 
-Business Model - Biznes Modeli
+Business Model - Biznes Modeli: Bir biznesin necə fəaliyyət göstərəcəyi və gəlir əldə edəcəyinə dair plan.
 
-Business Process Management (BPM) - Biznes Proseslərinin İdarə Edilməsi
+Business Process Management (BPM) - Biznes Proseslərinin İdarə Edilməsi: Biznes proseslərini optimallaşdırmaq və idarə etmək üçün istifadə olunan alətlər və metodlar.
 
-Byte - Bayt
+Byte - Bayt: Kompüterdə məlumatların təmsil edilməsi üçün istifadə olunan əsas ölçü vahidi (8 bit).
 
-Bytecode - Bayt Kodu
+Bytecode - Bayt Kodu: Yüksək səviyyəli proqramların aşağı səviyyəli maşın koduna çevrilən orta səviyyəli təmsilatı.
 
-Buffer - Yaddaş Tamponu
+Buffer - Yaddaş Tamponu: Məlumatların müvəqqəti saxlanması üçün istifadə edilən yaddaş sahəsi.
 
-Bug - Xəta
+Bug - Xəta: Proqramın düzgün işləməməsinə səbəb olan səhv və ya nasazlıq.
+
+New Terms Added:
+Back-End Framework - Arxa Tərəf Çərçivəsi: Arxa tərəf proqramlaşdırma üçün istifadə olunan struktur və alətlər toplusu.
+
+Balance Sheet - Balans Hesabatı: Bir şirkətin maliyyə vəziyyətini göstərən hesabat.
+
+Benchmark - Müqayisə Testi: Sistemin və ya proqramın performansını ölçmək üçün istifadə olunan standart testlər.
+
+Binary Tree - İkilik Ağacı: Hər düyünün yalnız iki uşağa sahib olduğu ağac quruluşu.
+
+Bit - Bit: İkilik sistemində ən kiçik məlumat vahidi, 0 və ya 1.
+
+Blending - Qarışdırma: Müxtəlif mənbələrdən gələn məlumatları birləşdirmək prosesi.
+
+Block - Blok: Kod və ya məlumatların qruplaşdırıldığı və müəyyən bir funksiyanı yerinə yetirən hissə.
+
+BOM (Bill of Materials) - Materiallar Siyahısı: Proqramın və ya sistemin komponentlərindən ibarət siyahı.
+
+Bootstrap - Bootstrap: Tətbiq və veb səhifələrin sürətli inkişafı üçün açıq mənbəli çərçivə.
+
+Branch - Şöbə: Proqramın və ya kodun paralel inkişafını təmin edən hər hansı bir yeni yola yönəltmə.
+
+Browser Compatibility - Brauzer Uyumluluğu: Veb saytın müxtəlif brauzerlərdə düzgün işləməsi.
 
 [//]: # (-----------------------------------------------------------------------------------------------------------------------------------)
 
 # C
 
-Cache - Keş
+Cache - Keş: Məlumatları sürətli əldə etmək məqsədilə müvəqqəti saxlayan yaddaş sahəsi.
 
-Call Stack - Çağırış Yığını
+Call Stack - Çağırış Yığını: Proqramın icrasını izləmək və idarə etmək üçün istifadə olunan verilənlər strukturu.
 
-Callback - Çağırış
+Callback - Çağırış: Bir funksiyanın digər funksiyaya ötürülərək icra edildikdən sonra geri çağırılması prosesi.
 
-Camel Case - Kərbəz Üslubu
+Camel Case - Kərbəz Üslubu: Bir çox sözün birləşdirilməsi ilə yaradılan dəyişkən adlandırma üsulu, hər yeni sözün böyük hərflə başlaması.
 
-Canonical Model - Kanonik Model
+Canonical Model - Kanonik Model: Məlumatların və ya sistemlərin sadələşdirilmiş və ümumi bir təmsil forması.
 
-Capacitor - Kapasitör
+Capacitor - Kapasitör: Elektronika sistemlərində istifadə olunan, enerjini müvəqqəti olaraq saxlayan komponent.
 
-Cardinality - Kardinalik
+Cardinality - Kardinalik: Verilənlər bazasında əlaqələr arasındakı məlumatın çoxluğu.
 
-Carrying Capacity - Daşıma Tutumu
+Carrying Capacity - Daşıma Tutumu: Sistem və ya şəbəkənin üzərinə çəkə biləcəyi yükün maksimum səviyyəsi.
 
-Case Study - Hal Araşdırması
+Case Study - Hal Araşdırması: Müəyyən bir hadisə və ya problemə dair dərindən təhlil və araşdırma.
 
-Catch Block - Yoxlama Bloku
+Catch Block - Yoxlama Bloku: Proqramdakı xətaları tutmaq üçün istifadə olunan kod bloku, əsasən istisnaları idarə etmək üçün.
 
-Causal Loop - Səbəb-Dövran
+Causal Loop - Səbəb-Dövran: Bir hadisənin digərinə təsir etdiyi və geri təsir dövrünün əmələ gəldiyi model.
 
-Cohesion - Koheziya
+Class - Sinif: Obyektlərin yaradılmasında istifadə olunan şablon və ya plan.
 
-Collaborative Software - Əməkdaşlıq Proqramı
+Class Diagram - Sinif Diaqramı: Obyektlər və siniflər arasındakı əlaqələri göstərən UML diaqramı.
 
-Collection - Kolleksiya
+CLI (Command Line Interface) - Komanda Xətti İnterfeysi: İstifadəçilərin əmrləri daxil edərək proqramlarla qarşılıqlı əlaqə qurduğu interfeys.
 
-Command Pattern - Əmrlər Nümunəsi
+Cloud Computing - Bulud Hesablama: İnternet üzərindən verilənlər və proqram təminatının təmin edilməsi.
 
-Commit - Təsdiqləmək
+Cohesion - Koheziya: Sinif və ya modulların daxilindəki əlaqənin güclülüyü, yaxud bir-birinə bağlı olma dərəcəsi.
 
-Compiler - Tərtibçi
+Collaborative Software - Əməkdaşlıq Proqramı: Bir çox istifadəçinin eyni vaxtda və ya birgə işlərlə bağlı məlumatları paylaşmasını təmin edən proqramlar.
 
-Composition - Kompozisiya
+Collection - Kolleksiya: Məlumatları saxlamaq və idarə etmək üçün istifadə olunan verilənlər tipi, məsələn, massivlər və siyahılar.
 
-Component - Komponent
+Command Pattern - Əmrlər Nümunəsi: Bir əmri obyekt kimi təsvir edən və icra etməyə imkan verən dizayn nümunəsi.
 
-Component-Based Software Engineering (CBSE) - Komponent əsaslı Proqram mühəndisliyi
+Commitment - Öhdəlik: Proqram inkişaf etdiricilərinin və ya komandasının layihəyə verdiyi zaman və resurs öhdəliyi.
 
-Concurrency - Paralellik
+Commit - Təsdiqləmək: Yaradılan dəyişiklikləri versiya idarəetmə sisteminə daxil etmək.
 
-Concurrency Control - Paralellik Nəzarəti
+Compiler - Tərtibçi: Mənbə kodunu daha aşağı səviyyəli və ya icra edilə bilən koda çevirən proqram.
 
-Condition - Şərt
+Composition - Kompozisiya: Obyektlər arasında əlaqəni təmin edən və bir obyektin başqa bir obyektin içindəki funksiyaları istifadə etməsinə imkan verən dizayn yanaşması.
 
-Configuration - Konfiqurasiya
+Component - Komponent: Bir sistemin və ya tətbiqin əsas hissəsi və ya modulunu təşkil edən bir vahid.
 
-Configuration Management - Konfiqurasiya İdarəetməsi
+Component-Based Software Engineering (CBSE) - Komponent əsaslı Proqram mühəndisliyi: Proqramın müxtəlif komponentlərdən birləşdirilərək hazırlanması yanaşması.
 
-Confidentiality - Məxfilik
+Concurrency - Paralellik: Eyni vaxtda bir neçə prosesin işlədilməsi.
 
-Constructor - Konstruktor
+Concurrency Control - Paralellik Nəzarəti: Paralel işləyən proseslərin və məlumatların idarə edilməsi, sinxronizasiya edilməsi.
 
-Container - Konteyner
+Condition - Şərt: Proqramın qərar vermə prosesində istifadə olunan vəziyyət.
 
-Continuous Integration (CI) - Davamlı İntegrasiya
+Configuration - Konfiqurasiya: Sistem və ya proqramın parametrlərinin və xüsusiyyətlərinin təyin edilməsi.
 
-Control Flow - Nəzarət Axını
+Configuration Management - Konfiqurasiya İdarəetməsi: Proqram və sistemin dəyişikliklərinin izlənməsi, idarə edilməsi və saxlanılması prosesi.
 
-Controller - Nəzarətçi
+Confidentiality - Məxfilik: Məlumatların yalnız yetkili şəxslərə açıq olması təminatı.
 
-Coupling - Qoşulma
+Constructor - Konstruktor: Obyektin yaradılmasını təmin edən xüsusi metod.
 
-Coverage - Əhatə
+Container - Konteyner: Məlumatların və obyektlərin saxlanılması və idarə olunması üçün istifadə olunan strukturlar.
 
-Critical Path - Əsas Yol
+Continuous Integration (CI) - Davamlı İntegrasiya: Tətbiqdəki bütün kod dəyişikliklərinin avtomatik olaraq test edilməsi və inteqrasiya olunması.
 
-Cross-Platform - Çarpaz Platforma
+Control Flow - Nəzarət Axını: Proqramın icra axınını təyin edən strukturlar və təlimatlar.
 
-CRUD (Create, Read, Update, Delete) - CRUD (Yarat, Oxu, Yenilə, Sil)
+Controller - Nəzarətçi: Model-View-Controller (MVC) arxitekturasında verilənləri idarə edən və istifadəçi əməliyyatlarını qəbul edən komponent.
 
-Cryptography - Kriptoqrafiya
+Coupling - Qoşulma: Sistem və ya komponentlər arasında əlaqənin gücü; aşağı qoşulma daha az əlaqə və daha çox müstəqillik deməkdir.
 
-Culture - Mədəniyyət
+Coverage - Əhatə: Testin proqramın neçə faizini əhatə etdiyini göstərən göstərici.
 
-Customer Relationship Management (CRM) - Müştəri Əlaqələri İdarəetməsi
+Critical Path - Əsas Yol: Proyektin tamamlanması üçün tələb olunan minimum vaxtı müəyyən edən fəaliyyətlər ardıcıllığı.
 
-Custom Software - Xüsusi Proqram
+Cross-Platform - Çarpaz Platforma: Müxtəlif əməliyyat sistemlərində və cihazlarda işləyə bilən proqram təminatının inkişaf etdirilməsi.
 
-Cyclomatic Complexity - Siklomatika Çətinliyi
+CRUD (Create, Read, Update, Delete) - CRUD (Yarat, Oxu, Yenilə, Sil): Proqramların əsas funksionallıqlarını əhatə edən əməliyyatlar.
+
+Cryptography - Kriptoqrafiya: Məlumatların təhlükəsizliyini təmin etmək məqsədilə şifrələmə və deşifrləmə texnologiyaları.
+
+Culture - Mədəniyyət: İş yerində və ya proqram inkişafında dəyərlər, ənənələr və metodların cəmiyyəti.
+
+Customer Relationship Management (CRM) - Müştəri Əlaqələri İdarəetməsi: Müştəri məlumatlarını və əlaqələrini idarə edən sistemlər və yanaşmalar.
+
+Custom Software - Xüsusi Proqram: Müəyyən bir istifadəçi və ya təşkilatın ehtiyaclarına uyğun olaraq yaradılmış proqram.
+
+Cyclomatic Complexity - Siklomatika Çətinliyi: Alqoritminin nə qədər mürəkkəb olduğunu və onun test edilməsinin nə qədər çətin olduğunu ölçən göstərici.
 
 [//]: # (-----------------------------------------------------------------------------------------------------------------------------------)
 
