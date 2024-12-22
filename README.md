@@ -1,6 +1,7 @@
 # Azərbaycan dilində proqram təminatı mühəndisliyi terminləri
 Proqram təminatı mühəndisliyi terminlərinin Azərbaycan dilindəki qarşılıqlarını tapırıq.
 
+[]: # (--------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
 # A
 
 Abstraction - Abstraksiya
@@ -366,12 +367,12 @@ Ephemeral Storage - Müvəqqəti Yaddaş
 
 Entity Framework - Varlıq Çərçivəsi
 
-Here is the updated text with the "# " prefix added to all lines starting with a single character:
 
-[//]: # (Yet another comment)
+[]: # (--------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
 
 # F
 
+[]: # (--------------------------------------------------------------------------------------------------------------------------------------------------------------------------)
 # G
 
 # H
