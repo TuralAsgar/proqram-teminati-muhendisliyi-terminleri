@@ -70,8 +70,6 @@ Automated Testing - Avtomatlaşdırılmış Test: Proqram təminatının sınaqd
 
 Availability - Əlçatanlıq: Sistemin və ya tətbiqin istifadəçilər üçün davamlı işləmə vəziyyəti.
 
-Auto-Scaling - Avtomatik Ölçekləndirmə: Sistem yüklənməsinə əsaslanaraq resursların avtomatik olaraq artırılması və ya azaldılması.
-
 Audit Trail - Auditin İzi: Sistemdə edilən bütün əməliyyatların və dəyişikliklərin qeydiyyatı və izlənməsi.
 
 [//]: # (-----------------------------------------------------------------------------------------------------------------------------------)
@@ -80,13 +78,15 @@ Audit Trail - Auditin İzi: Sistemdə edilən bütün əməliyyatların və dəy
 
 Back-End - Arxa Tərəf: Sistemin istifadəçilərə görünməyən, amma məlumatların işlənməsi və saxlanması üçün cavabdeh olan hissəsi.
 
+Back-End Framework - Arxa Tərəf Çərçivəsi: Arxa tərəf proqramlaşdırma üçün istifadə olunan struktur və alətlər toplusu.
+
 Backlog - Arxa Plan: İcra olunması gözlənilən işlərin, tapşırıqların və ya xüsusiyyətlərin siyahısı.
 
 Backward Compatibility - Geriyə Uyumluluq: Yeni bir versiyanın köhnə versiyalarla uyğun olaraq işləməsi xüsusiyyəti.
 
 Balanced Scorecard - Balanslı Kart: İş performansını müxtəlif sahələrdə ölçmək üçün istifadə olunan bir idarəetmə aləti.
 
-Bandwith - Bant Genişliyi: Məlumatların bir şəbəkə üzərindən nə qədər sürətlə ötürülə biləcəyini göstərən ölçü.
+Balance Sheet - Balans Hesabatı: Bir şirkətin maliyyə vəziyyətini göstərən hesabat.
 
 Base Class - Əsas Sinif: Digər siniflərin miras aldığı və onların strukturlarını müəyyən edən sinif.
 
@@ -104,13 +104,25 @@ Binary - İkilik: İki simvol (0 və 1) ilə təmsil olunan məlumatların işl�
 
 Binary Search - İkilik Axtarışı: Sıralanmış verilənlərdə bir elementi tapmaq üçün istifadə olunan alqoritm.
 
+Binary Tree - İkilik Ağacı: Hər düyünün yalnız iki uşağa sahib olduğu ağac quruluşu.
+
 Binding - Bağlama: Funksiyalar və verilənlər arasında əlaqə yaratma prosesi.
+
+Bit - Bit: İkilik sistemində ən kiçik məlumat vahidi, 0 və ya 1.
+
+Block - Blok: Kod və ya məlumatların qruplaşdırıldığı və müəyyən bir funksiyanı yerinə yetirən hissə.
+
+Bootstrap - Bootstrap: Tətbiq və veb səhifələrin sürətli inkişafı üçün açıq mənbəli çərçivə.
 
 Bottleneck - Boğulma: Sistemdə resursların tıxanması və ya tələbin gecikməsinə səbəb olan hissə.
 
-Boundary Value Analysis - Hüdud Dəyəri Təhlili: Test üsulu, giriş dəyərlərinin sərhədlərində səhvləri tapmaq üçün istifadə olunur.
+Boundary Value Analysis (BVA)- Hüdud Dəyəri Təhlili: Test üsulu, giriş dəyərlərinin sərhədlərində səhvləri tapmaq üçün istifadə olunur.
+
+Branch - budağ: Proqramın və ya kodun paralel inkişafını təmin edən hər hansı bir yeni yola yönəltmə.
 
 Breakpoint - Dayanma Nöqtəsi: Proqramın icrasını müəyyən bir nöqtədə dayandıran səhv ayıklama vasitəsi.
+
+Browser Compatibility - Brauzer Uyumluluğu: Veb saytın müxtəlif brauzerlərdə düzgün işləməsi.
 
 Build - Quruluş: Proqramın hazırlanması, tərtib edilməsi və sınaqdan keçirilməsi prosesi.
 
@@ -138,29 +150,6 @@ Buffer - Yaddaş Tamponu: Məlumatların müvəqqəti saxlanması üçün istifa
 
 Bug - Xəta: Proqramın düzgün işləməməsinə səbəb olan səhv və ya nasazlıq.
 
-New Terms Added:
-Back-End Framework - Arxa Tərəf Çərçivəsi: Arxa tərəf proqramlaşdırma üçün istifadə olunan struktur və alətlər toplusu.
-
-Balance Sheet - Balans Hesabatı: Bir şirkətin maliyyə vəziyyətini göstərən hesabat.
-
-Benchmark - Müqayisə Testi: Sistemin və ya proqramın performansını ölçmək üçün istifadə olunan standart testlər.
-
-Binary Tree - İkilik Ağacı: Hər düyünün yalnız iki uşağa sahib olduğu ağac quruluşu.
-
-Bit - Bit: İkilik sistemində ən kiçik məlumat vahidi, 0 və ya 1.
-
-Blending - Qarışdırma: Müxtəlif mənbələrdən gələn məlumatları birləşdirmək prosesi.
-
-Block - Blok: Kod və ya məlumatların qruplaşdırıldığı və müəyyən bir funksiyanı yerinə yetirən hissə.
-
-BOM (Bill of Materials) - Materiallar Siyahısı: Proqramın və ya sistemin komponentlərindən ibarət siyahı.
-
-Bootstrap - Bootstrap: Tətbiq və veb səhifələrin sürətli inkişafı üçün açıq mənbəli çərçivə.
-
-Branch - Şöbə: Proqramın və ya kodun paralel inkişafını təmin edən hər hansı bir yeni yola yönəltmə.
-
-Browser Compatibility - Brauzer Uyumluluğu: Veb saytın müxtəlif brauzerlərdə düzgün işləməsi.
-
 [//]: # (-----------------------------------------------------------------------------------------------------------------------------------)
 
 # C
@@ -175,15 +164,11 @@ Camel Case - Kərbəz Üslubu: Bir çox sözün birləşdirilməsi ilə yaradıl
 
 Canonical Model - Kanonik Model: Məlumatların və ya sistemlərin sadələşdirilmiş və ümumi bir təmsil forması.
 
-Capacitor - Kapasitör: Elektronika sistemlərində istifadə olunan, enerjini müvəqqəti olaraq saxlayan komponent.
-
 Cardinality - Kardinalik: Verilənlər bazasında əlaqələr arasındakı məlumatın çoxluğu.
-
-Carrying Capacity - Daşıma Tutumu: Sistem və ya şəbəkənin üzərinə çəkə biləcəyi yükün maksimum səviyyəsi.
 
 Case Study - Hal Araşdırması: Müəyyən bir hadisə və ya problemə dair dərindən təhlil və araşdırma.
 
-Catch Block - Yoxlama Bloku: Proqramdakı xətaları tutmaq üçün istifadə olunan kod bloku, əsasən istisnaları idarə etmək üçün.
+Catch Block - İstisna hallarln idarəetmə bloku: Proqramdakı xətaları tutmaq üçün istifadə olunan kod bloku, əsasən istisnaları idarə etmək üçün.
 
 Causal Loop - Səbəb-Dövran: Bir hadisənin digərinə təsir etdiyi və geri təsir dövrünün əmələ gəldiyi model.
 
@@ -249,8 +234,6 @@ CRUD (Create, Read, Update, Delete) - CRUD (Yarat, Oxu, Yenilə, Sil): Proqramla
 
 Cryptography - Kriptoqrafiya: Məlumatların təhlükəsizliyini təmin etmək məqsədilə şifrələmə və deşifrləmə texnologiyaları.
 
-Culture - Mədəniyyət: İş yerində və ya proqram inkişafında dəyərlər, ənənələr və metodların cəmiyyəti.
-
 Customer Relationship Management (CRM) - Müştəri Əlaqələri İdarəetməsi: Müştəri məlumatlarını və əlaqələrini idarə edən sistemlər və yanaşmalar.
 
 Custom Software - Xüsusi Proqram: Müəyyən bir istifadəçi və ya təşkilatın ehtiyaclarına uyğun olaraq yaradılmış proqram.
@@ -283,13 +266,13 @@ Data Structure - Məlumat Strukturu: Məlumatları səmərəli saxlamaq və işl
 
 Data Synchronization - Məlumat Sinxronizasiyası: Fərqli sistemlər və verilənlər bazalarında məlumatların uyumlu və eyni olmasını təmin edən proses.
 
+Data Warehouse - Məlumat Anbarı: Böyük həcmdə məlumatın saxlandığı və analiz edildiyi mərkəzi verilənlər bazası.
+
 Database - Verilənlər Bazası: Məlumatların saxlandığı və idarə olunduğu təşkil olunmuş sistem.
 
 Database Management System (DBMS) - Verilənlər Bazası İdarəetmə Sistemi: Verilənlər bazalarını yaratmaq, idarə etmək və istifadə etmək üçün istifadə olunan proqram təminatı.
 
 Database Schema - Verilənlər Bazası Şeması: Verilənlər bazasında cədvəllərin, sütunların və əlaqələrin necə təşkil olunduğunu göstərən struktur.
-
-Data Warehouse - Məlumat Anbarı: Böyük həcmdə məlumatın saxlandığı və analiz edildiyi mərkəzi verilənlər bazası.
 
 Datalog - Dataloq: Məlumatların və əməliyyatların işlənməsini və saxlanılmasını təmin edən məlumat bazası dilidir.
 
@@ -409,7 +392,7 @@ Eventual Consistency - Nəticə Kəsinliyi: Sistemdəki məlumatların zamanla h
 
 Executable - İcralanabilir: Kompüter tərəfindən işlədilə bilən və ya işə salına bilən proqram faylı.
 
-Exception - İstisna: Proqramın gözlənilməz və ya səhv bir vəziyyətlə qarşılaşdığında atılan xüsusi mesaj və ya vəziyyət.
+Exception - İstisna (hal): Proqramın gözlənilməz və ya səhv bir vəziyyətlə qarşılaşdığında atılan xüsusi mesaj və ya vəziyyət.
 
 Exception Handling - İstisna İdarəetməsi: Proqramda baş verən istisnaların aşkar edilməsi və onlara uyğun reaksiya verilməsi prosesi.
 
@@ -501,8 +484,6 @@ Garbage Collection - Tullantı Yığımı: İstifadə olunmayan yaddaş sahəsin
 
 Gateway - Keçid: İki şəbəkə və ya sistem arasında məlumat mübadiləsini təmin edən cihaz və ya proqram.
 
-Gherkin - Gerkın: Davranış yönümlü inkişafda istifadə olunan, xüsusiyyətləri və funksionallığı təsvir edən, təbii dilə əsaslanan bir dil.
-
 Git - Git: Proqram inkişafı üçün versiya idarəetmə sistemi, kod dəyişikliklərinin izlənməsini və idarə edilməsini təmin edir.
 
 GitHub - GitHub: Git versiya idarəetmə sistemi ilə inteqrasiya olunmuş bulud əsaslı kod paylaşma və əməkdaşlıq platforması.
@@ -515,7 +496,7 @@ Goal-Oriented Programming - Məqsəd Yönümlü Proqramlaşdırma: Proqramın in
 
 Graph Database - Qraf Verilənlər Bazası: Məlumatların qraf strukturları ilə təmsil edildiyi verilənlər bazası növü.
 
-Gray Box Testing - Boz Qutu Testi: Həm daxili, həm də xarici sistemlərə aid məlumatları nəzərə alaraq həyata keçirilən test.
+Gray-Box Testing - Boz-Qutu Testi: Həm daxili, həm də xarici sistemlərə aid məlumatları nəzərə alaraq həyata keçirilən test.
 
 Gray Hat Hacker - Boz Şapka Hacker: Təhlükəsizlik zəifliklərini tapmaq məqsədilə həm müsbət, həm də mənfi məqsədlərlə fəaliyyət göstərən şəxs.
 
@@ -541,12 +522,6 @@ Groupware - Qrup Proqramı: Bir qrup insanın əməkdaşlıq etməsini təmin ed
 
 Google Cloud - Google Bulud: Google tərəfindən təqdim olunan bulud əsaslı xidmətlər və məhsullar.
 
-Go Programming Language - Go Proqramlaşdırma Dili: Google tərəfindən yaradılmış, sadə və sürətli proqram inkişafı üçün istifadə olunan proqramlaşdırma dili.
-
-GraphQL - GraphQL: API sorğuları üçün bir dil və standart, müştərilərin tələblərinə görə verilənlər əldə etməyə imkan verir.
-
-GIT Merge - GIT Birləşdirmə: Git versiya idarəetmə sistemində iki ayrı-ayrı şaxəni birləşdirmək əməliyyatı.
-
 Good Practices - Yaxşı Təcrübələr: Proqram inkişafında səmərəli və yüksək keyfiyyətli nəticələr əldə etmək üçün tətbiq olunan metodlar və yanaşmalar.
 
 [//]: # (-----------------------------------------------------------------------------------------------------------------------------------)
@@ -555,15 +530,9 @@ Good Practices - Yaxşı Təcrübələr: Proqram inkişafında səmərəli və y
 
 Hackathon - Hackaton: Müəyyən bir mövzu və ya problem üzərində qısa müddət ərzində intensiv əməkdaşlıqla işləmək üçün keçirilən tədbir.
 
-Hardware - Avadanlıq: Kompüter sistemindəki fiziki komponentlər, məsələn, prosessor, yaddaş, disk, və s.
-
 Hash Function - Xətti Funksiya: Məlumatları müəyyən bir ölçüdə və formatda təmsil edən, ardıcıl olaraq mürəkkəb verilənlərdən sadə bir "xətti" dəyər yaradan funksiya.
 
 Hash Table - Xətti Cədvəl: Verilənlər bazasında axtarışları sürətləndirmək üçün açar-dəyər cütləri şəklində məlumat saxlama strukturu.
-
-HDD (Hard Disk Drive) - Sərt Disk Sürücüsü: Məlumatları maqnetik əsasda saxlayan və oxuyan cihaz, kompüterin uzunmüddətli yaddaşını təmin edir.
-
-Headless CMS - Başsız CMS: Məzmun idarəetmə sistemi (CMS), yalnız məzmunu idarə etməyə imkan verən və istifadəçi interfeysi təqdim etməyən sistem.
 
 Heap - Yığın: Yaddaşda məlumatların dinamik olaraq saxlanması üçün istifadə olunan verilənlər strukturu.
 
@@ -598,8 +567,6 @@ Horizontal Scaling - Üfüqi Ölçekləndirmə: Sistemdə yeni resursların (ser
 Hardening - Gücləndirmə: Sistem və şəbəkə təhlükəsizliyini artırmaq üçün zəiflikləri aradan qaldırmaq və əlavə qoruma qatları əlavə etmək.
 
 Heat Map - İstilik Xəritəsi: Müxtəlif verilənlərin və ya əməliyyatların sıxlığını vizual olaraq göstərən diaqram.
-
-Hot Standby - İsti Standby: Bir sistemin və ya serverin yedək variantının hər zaman aktiv və hazır olduğu vəziyyət.
 
 [//]: # (-----------------------------------------------------------------------------------------------------------------------------------)
 
@@ -680,8 +647,6 @@ Job Scheduling - İş Cədvəlləşdirmə: Sistem və ya proqram daxilindəki v�
 JAR (Java ARchive) - JAR (Java ARxiv): Java proqramlarını paketləşdirmək və yaymaq üçün istifadə olunan arxiv formatı.
 
 Javadoc - Javadoc: Java dilində yazılmış proqram kodunun sənədləşdirilməsi üçün istifadə olunan vasitə.
-
-JSON Schema - JSON Sxeması: JSON verilənlər strukturunun doğruluğunu yoxlamaq üçün istifadə olunan bir alət və ya quruluş.
 
 [//]: # (-----------------------------------------------------------------------------------------------------------------------------------)
 
@@ -901,11 +866,7 @@ On-demand - Tələbə uyğun: Xidmətlərin və ya resursların istifadəçi tə
 
 Opaque Data - Qaranlıq Məlumat: Məlumatların məzmununun istifadəçilər və ya digər sistemlər tərəfindən görünməyən, yalnız müəyyən funksiyalar tərəfindən işlənən məlumat.
 
-OAuth - OAuth: İstifadəçi məlumatlarını təhlükəsiz şəkildə idarə etmək üçün istifadə olunan və doğrulama prosesi təmin edən standart protokol.
-
 OpenID - OpenID: İnternet üzərində istifadəçi identifikasiyasını təmin etmək üçün istifadə olunan açıq protokol.
-
-Owner - Sahiblənmə: Bir obyekti və ya məlumatı müəyyən bir şəxs və ya sistemin idarə etməsi və ona malik olması.
 
 Operating Environment - Əməliyyat Mühiti: Proqram və ya sistemin işlədiyi və qarşılıqlı əlaqədə olduğu mühit.
 
@@ -967,15 +928,11 @@ Pull Request - Çəkiliş Tələbi: Proqramın inkişafında bir kod dəyişikli
 
 Prototype - Prototip: Bir sistemin və ya məhsulun ilkin modelini nümayiş etdirən nümunə.
 
-Python - Python: Yüksək səviyyəli, oxunaqlı və istifadəsi asan olan proqramlaşdırma dili.
-
 Public Method - İctimai Metod: Hər kəsin istifadə edə biləcəyi və ya çağıracağı metod, obyektin daxilindən və xaricindən istifadə oluna bilər.
 
 Performance Bottleneck - Performans Boğulması: Bir proqram və ya sistemin performansını məhdudlaşdıran və inkişaf etdirilməli olan hissə.
 
 Permission - İcazə: Sistemdə və ya tətbiqdə istifadəçilərə verilən müxtəlif hüquq və imkanlar.
-
-Pollution - Çirklənmə: Məlumatların və ya proqramın daxilindəki lazımsız və ya zərərli elementlər.
 
 [//]: # (-----------------------------------------------------------------------------------------------------------------------------------)
 
@@ -1293,13 +1250,7 @@ Wrapper Class - Wrapper Sinifi: Verilənlər tipini obyektə çevirmək üçün 
 
 Web Crawling - Veb Axtarışı: Veb səhifələri tarayaraq məlumatları toplamaq və axtarış motorları üçün indeksləmək prosesi.
 
-Windows Server - Windows Server: Microsoft tərəfindən hazırlanmış, serverlər üçün nəzərdə tutulmuş əməliyyat sistemi.
-
 Workload - İş Yükü: Bir sistem və ya tətbiq tərəfindən işlənilən məlumat və ya icra olunan əməliyyatların həcmi.
-
-Weakness - Zəiflik: Proqram və ya sistemdə təhlükəsizlik, performans və ya digər aspektlərdə mövcud olan problemlər.
-
-Wireless Communication - Simsiz Əlaqə: Kabelsiz rabitə vasitəsilə məlumat mübadiləsi, məsələn, Bluetooth və Wi-Fi.
 
 [//]: # (-----------------------------------------------------------------------------------------------------------------------------------)
 
@@ -1335,6 +1286,3 @@ Zero-Day Attack - Zero-Day Hücumu: Təhlükəsizlik zəifliyinin hələ istifad
 
 Zero-Inflated Model - Sıfırla Dolmuş Model: Statistik modellər, xüsusilə verilənlər bazasında sıfırların təkrarlandığı hallarda istifadə olunan bir yanaşma.
 
-Zigbee - Zigbee: Qısa məsafəli, aşağı güclə işləyən və çoxlu cihaz arasında məlumat mübadiləsi etmək üçün istifadə olunan şəbəkə protokolu.
-
-Zoning - Zonalama: Şəbəkə və ya verilənlər bazasında məlumatların müxtəlif hissələrə bölünməsi və hər bir hissənin fərqli metodlarla idarə edilməsi prosesi.
