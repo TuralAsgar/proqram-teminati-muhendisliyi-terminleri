@@ -261,97 +261,107 @@ Cyclomatic Complexity - Siklomatika Çətinliyi: Alqoritminin nə qədər mürə
 
 # D
 
-Data Access Layer (DAL) - Məlumat Giriş Qatı
+Data Access Layer (DAL) - Məlumat Giriş Qatı: Məlumatların sistemə daxil olması və sistemdən çıxması üçün interfeys təmin edən proqram hissəsi.
 
-Data Binding - Məlumat Bağlama
+Data Access Object (DAO) - Məlumat Giriş Obyekti: Məlumatların sistemlər arasında ötürülməsi və əldə edilməsi üçün istifadə olunan obyekt.
 
-Data Dictionary - Məlumat Lüğəti
+Data Analytics - Məlumat Analitikası: Böyük məlumat dəstlərinin təhlili və bu məlumatlardan nəticə çıxarılması prosesi.
 
-Data Flow Diagram (DFD) - Məlumat Axını Diaqramı
+Data Binding - Məlumat Bağlama: Verilənlərin istifadəçi interfeysi elementləri ilə birləşdirilməsi prosesi.
 
-Data Integrity - Məlumatın Doğruluğu
+Data Dictionary - Məlumat Lüğəti: Məlumatların strukturlarını və onların əlaqələrini təsvir edən sənəd və ya sistem.
 
-Data Migration - Məlumat Köçürülməsi
+Data Flow Diagram (DFD) - Məlumat Axını Diaqramı: Məlumatların bir sistemdə necə axdığını və işlənildiyini göstərən vizual diaqram.
 
-Data Modeling - Məlumat Modelləşdirmə
+Data Integrity - Məlumatın Doğruluğu: Məlumatların tam və dəqiq olmasını təmin edən texnologiyalar və prinsiplər.
 
-Data Structure - Məlumat Strukturu
+Data Migration - Məlumat Köçürülməsi: Məlumatların bir sistemdən digərinə köçürülməsi prosesi.
 
-Database - Verilənlər Bazası
+Data Modeling - Məlumat Modelləşdirmə: Məlumatların strukturunu təmsil edən və onları idarə etməyə kömək edən modelin yaradılması.
 
-Database Management System (DBMS) - Verilənlər Bazası İdarəetmə Sistemi
+Data Structure - Məlumat Strukturu: Məlumatları səmərəli saxlamaq və işləmək üçün təşkil edilmiş verilənlər forması.
 
-Database Schema - Verilənlər Bazası Şeması
+Data Synchronization - Məlumat Sinxronizasiyası: Fərqli sistemlər və verilənlər bazalarında məlumatların uyumlu və eyni olmasını təmin edən proses.
 
-Data Warehouse - Məlumat Anbarı
+Database - Verilənlər Bazası: Məlumatların saxlandığı və idarə olunduğu təşkil olunmuş sistem.
 
-Datalog - Dataloq
+Database Management System (DBMS) - Verilənlər Bazası İdarəetmə Sistemi: Verilənlər bazalarını yaratmaq, idarə etmək və istifadə etmək üçün istifadə olunan proqram təminatı.
 
-Debugging - Xəta Aradan Qaldırma
+Database Schema - Verilənlər Bazası Şeması: Verilənlər bazasında cədvəllərin, sütunların və əlaqələrin necə təşkil olunduğunu göstərən struktur.
 
-Decentralized - Mərkəzləşdirilməmiş
+Data Warehouse - Məlumat Anbarı: Böyük həcmdə məlumatın saxlandığı və analiz edildiyi mərkəzi verilənlər bazası.
 
-Decision Table - Qərar Cədvəli
+Datalog - Dataloq: Məlumatların və əməliyyatların işlənməsini və saxlanılmasını təmin edən məlumat bazası dilidir.
 
-Declarative Programming - Deklarativ Proqramlaşdırma
+Debugging - Xəta Aradan Qaldırma: Proqramdakı səhvlərin və nasazlıqların tapılması və düzəldilməsi prosesi.
 
-Defect - Xəta
+Decentralized - Mərkəzləşdirilməmiş: Sistem və ya tətbiqin mərkəzi idarəetməyə ehtiyac olmadan fəaliyyət göstərməsi.
 
-Defect Density - Xətaların Sıxlığı
+Decision Table - Qərar Cədvəli: Müxtəlif şərtlərə görə alınması lazım olan qərarları göstərən cədvəl.
 
-Defragmentation - Defraqmentasiya
+Declarative Programming - Deklarativ Proqramlaşdırma: Proqramın nə etməli olduğunu təsvir edən, amma necə etməli olduğunu göstərməyən proqramlaşdırma üsulu.
 
-Delegation - Təqdim etmə
+Defect - Xəta: Proqramda və ya sistemdə gözlənilməyən davranış və ya nasazlıq.
 
-Dependency Injection - Asılılıq Vurulması
+Defect Density - Xətaların Sıxlığı: Müəyyən bir kod və ya sistem sahəsindəki xətaların nisbəti.
 
-Deploy - yerləşdirmək
+Defragmentation - Defraqmentasiya: Diskdəki məlumatların daha səmərəli saxlanması üçün parçalanmış faylların birləşdirilməsi.
 
-Deployment - Yerləşdirmə
+Delegation - Təqdim etmə: Bir işin və ya funksiyanın başqa birinə verilməsi.
 
-Deployment Pipeline - Yerləşdirmə Borusu
+Dependency Injection - Asılılıq Vurulması: Bir obyektin digər obyektlərə olan asılılıqlarının xaricdən təmin edilməsi.
 
-Design - Dizayn
+Deploy - yerləşdirmək: Tətbiq və ya sistemin istifadəçilər üçün aktivləşdirilməsi.
 
-Design Pattern - Dizayn Nümunəsi
+Deployment - Yerləşdirmə: Proqram və ya sistemin hazırlanmasından sonra istehsala yerləşdirilməsi.
 
-Design Phase - Dizayn Fəslində
+Deployment Pipeline - Yerləşdirmə Borusu: Tətbiqin inkişafdan istehsal mühitinə qədər hər bir mərhələdə avtomatik olaraq inteqrasiya və yerləşdirilməsini təmin edən proses.
 
-Design Specification - Dizayn Təsviri
+Deserialization - Deserializasiya: Məlumatın və ya obyektin serializasiya edilərək disklərdə saxlanılmasından sonra orijinal formada yenidən qurulması.
 
-Design Template - Dizayn Şablonu
+Design - Dizayn: Sistem və ya proqramın necə qurulacağını və işləyəcəyini müəyyən edən mərhələ.
 
-Deterministic - Təhlükəsiz
+Design Pattern - Dizayn Nümunəsi: Yenidən istifadə olunan və təsdiqlənmiş proqram dizayn həlləri.
 
-DevOps - DevOps
+Design Phase - Dizayn Fəslində: Sistem və ya tətbiqin arxitekturasının və xüsusiyyətlərinin müəyyən edildiyi mərhələ.
 
-Diagram - Diaqram
+Design Specification - Dizayn Təsviri: Sistem və ya proqramın dizaynını ətraflı şəkildə izah edən sənəd.
 
-Dictionary - Lüğət
+Design Template - Dizayn Şablonu: Dizaynın təkrarlanabilir hissələri üçün əvvəlcədən hazırlanmış çərçivə.
 
-Differential Testing - Fərqli Testləşdirmə
+Deterministic - Təhlükəsiz: Hər zaman eyni nəticəni verən və ya konkret şəkildə müəyyən edilən sistem və ya proses.
 
-Dijkstra’s Algorithm - Dijkstra Alqoritmi
+DevOps - DevOps: Proqram inkişafı və əməliyyatlar arasındakı əməkdaşlığı gücləndirmək məqsədilə istifadə olunan metodologiya.
 
-Disk Cache - Disk Keşi
+Diagram - Diaqram: Verilənlər və ya proseslər arasındakı əlaqələri göstərən vizual təmsil.
 
-Distributed System - Paylanmış Sistem
+Dictionary - Lüğət: Açar-deyər cütləri şəklində təşkil edilmiş verilənlər strukturu.
 
-Dividing - Bölmə
+Differential Testing - Fərqli Testləşdirmə: Müxtəlif sistemlərin və ya versiyaların nəticələrinin müqayisə edilməsi yolu ilə testin həyata keçirilməsi.
 
-Documentation - Sənədləşdirmə
+Dijkstra’s Algorithm - Dijkstra Alqoritmi: Ən qısa yol problemini həll edən məşhur alqoritm.
 
-Domain - Domen
+Disk Cache - Disk Keşi: Diskə yazılmadan əvvəl verilənlərin müvəqqəti saxlanması üçün istifadə edilən yaddaş sahəsi.
 
-Domain-Specific Language (DSL) - Domenə Xüsusi Dil
+Distributed Computing - Paylanmış Hesablama: Məlumatların və əməliyyatların bir neçə müstəqil kompüter arasında paylanması və birləşdirilməsi.
 
-Driver - Sürücü
+Distributed System - Paylanmış Sistem: Şəbəkə üzərindən bir neçə müstəqil kompüter tərəfindən idarə olunan və işlədilən sistem.
 
-Dynamic Binding - Dinamik Bağlama
+Dividing - Bölmə: Böyük məlumat və ya prosesləri daha kiçik hissələrə ayırma.
 
-Dynamic Link Library (DLL) - Dinamik Bağlantı Kitabxanası
+Documentation - Sənədləşdirmə: Proqramın və ya sistemin istifadəsi və təhlilini izah edən yazılı material.
 
-Dynamic Programming - Dinamik Proqramlaşdırma
+Domain - Domen: Sistem və ya proqramın işlədiyi mühit və ya təyinatlı sahə.
+
+Domain-Specific Language (DSL) - Domenə Xüsusi Dil: Müəyyən bir sahə və ya tətbiq üçün yaradılmış xüsusi proqramlaşdırma dili.
+
+Driver - Sürücü: Kompüterin hardware komponentləri ilə işləməsini təmin edən proqram.
+
+Dynamic Binding - Dinamik Bağlama: Funksiya və ya metod çağırışlarının icra anında təyin edilməsi prosesi.
+
+Dynamic Link Library (DLL) - Dinamik Bağlantı Kitabxanası: Müxtəlif tətbiqlər tərəfindən istifadə oluna bilən, tərtib edilmiş funksiyalar toplusu.
+
+Dynamic Programming - Dinamik Proqramlaşdırma: Proqramların təkrarlanan və ya alt problemləri istifadə edərək səmərəli həll edilməsi yanaşması.
 
 [//]: # (-----------------------------------------------------------------------------------------------------------------------------------)
 
