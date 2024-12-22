@@ -131,21 +131,21 @@ Audit Trail - Auditin İzi : Sistemdə edilən bütün əməliyyatların və də
 
 Authentication - Doğrulama : İstifadəçinin kimliyini təsdiqləyən proses.
 
-Authentication - təsdiqləmə : Şəxs və ya prosesin həqiqətən kim və ya nə olduğunu müəyyən edən prosedur.
+Authentication - Təsdiqləmə : Şəxs və ya prosesin həqiqətən kim və ya nə olduğunu müəyyən edən prosedur.
 
 Authenticity - etibarlılıq : Bir mövzu və ya resursun iddia edilən şəxsiyyətinə uyğun olduğunu sübut etmə dərəcəsi.
 
 Authorization - Səlahiyyətləndirmə : İstifadəçiyə müəyyən resurslara və əməliyyatlara girişi təsdiqləmək.
 
-Authorization - icazəvermə : İstifadəçiyə və ya prosesə resurslara daxil olmaq üçün verilmiş icazə.
+Authorization - Icazəvermə : İstifadəçiyə və ya prosesə resurslara daxil olmaq üçün verilmiş icazə.
 
 Automated Testing - Avtomatlaşdırılmış Test : Proqram təminatının sınaqdan keçirilməsi üçün avtomatik alətlərin istifadəsi.
 
 Automation - Avtomatlaşdırma : Təkrarlanan və ya əməliyyatların əl ilə yerinə yetirilməsi əvəzinə avtomatik şəkildə həyata keçirilməsi.
 
-Automation code defect density - avtomatlaşdırılmış kodda qüsur sıxlığı : Test avtomatlaşdırma kodunun bir komponentindəki qüsur sıxlığı.
+Automation code defect density - Avtomatlaşdırılmış kodda qüsur sıxlığı : Test avtomatlaşdırma kodunun bir komponentindəki qüsur sıxlığı.
 
-Automotive safety integrity level - avtomobil təhlükəsizliyi bütövlüyü səviyyəsi : ISO 26262 standartına əsasən bir elementin və ya obyektin tələblərinin və təhlükəsizlik tədbirlərinin zəruri dörd səviyyəsindən biri.
+Automotive safety integrity level - Avtomobil təhlükəsizliyi bütövlüyü səviyyəsi : ISO 26262 standartına əsasən bir elementin və ya obyektin tələblərinin və təhlükəsizlik tədbirlərinin zəruri dörd səviyyəsindən biri.
 
 Automotive spice - avtomobil SPICE : Avtomobil sənayesində prosesə aid istinad modeli və əlaqəli prosesin qiymətləndirmə modeli.
 
@@ -161,7 +161,7 @@ Back-End Framework - Arxa Tərəf Çərçivəsi : Arxa tərəf proqramlaşdırma
 
 Backlog - Arxa Plan : İcra olunması gözlənilən işlərin, tapşırıqların və ya xüsusiyyətlərin siyahısı.
 
-Back-to-back testing - bir-birinə qarşı testlər : Eyni test halları icra edilərək və nəticələr müqayisə edilərək test obyektinin və ya modelin iki və ya daha çox variantını müqayisə etmək üçün test.
+Back-to-back testing - Bir-birinə qarşı testlər : Eyni test halları icra edilərək və nəticələr müqayisə edilərək test obyektinin və ya modelin iki və ya daha çox variantını müqayisə etmək üçün test.
 
 Backward Compatibility - Geriyə Uyumluluq : Yeni bir versiyanın köhnə versiyalarla uyğun olaraq işləməsi xüsusiyyəti.
 
