@@ -61,7 +61,7 @@ Automation - Avtomatlaşdırma
 
 Availability - Əlçatanlıq
 
-**B**
+# B
 Back-End - Arxa Tərəf
 
 Backlog - Arxa Plan
@@ -122,7 +122,7 @@ Buffer - Yaddaş Tamponu
 
 Bug - Xəta
 
-**C**
+# C
 
 Cache - Keş
 
